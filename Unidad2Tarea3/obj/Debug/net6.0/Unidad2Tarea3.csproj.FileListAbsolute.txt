@@ -1,0 +1,14 @@
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.AssemblyInfoInputs.cache
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.AssemblyInfo.cs
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\bin\Debug\net6.0\Unidad2Tarea3.exe
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\bin\Debug\net6.0\Unidad2Tarea3.deps.json
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\bin\Debug\net6.0\Unidad2Tarea3.runtimeconfig.json
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\bin\Debug\net6.0\Unidad2Tarea3.dll
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\bin\Debug\net6.0\Unidad2Tarea3.pdb
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.dll
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\refint\Unidad2Tarea3.dll
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.pdb
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\Unidad2Tarea3.genruntimeconfig.cache
+C:\Users\AlumDAM2M\source\repos\Unidad2Tarea3\Unidad2Tarea3\obj\Debug\net6.0\ref\Unidad2Tarea3.dll
